@@ -19,7 +19,7 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baaybye/test-random-msg.git"
+    "url": "git+https://github.com/baaybye/test-random-msg/test-random-msg.git"
   },
   "bugs": {
     "url": "https://github.com/baaybye/test-random-msg/issues"
